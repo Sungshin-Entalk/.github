@@ -21,7 +21,7 @@ Contributor
     <td align="center"><sub><b>WEB, AI</b></sub><br /><img src="https://github.com/Sungshin-Entalk/.github/assets/114573447/a75a22e0-1824-4cca-bc15-9de66c30a6ae" width="100px;" alt=""/><br /><sub><b>신우림</b></sub><br /></td>
     <td align="center"><sub><b> WEB, AI</b></sub><br /><img src="https://github.com/Sungshin-Entalk/.github/assets/114573447/22f85fa8-2536-4f59-9f12-eb91a35e3014" width="100px;" alt=""/><br /><sub><b>심지영</b></sub><br /></td>
     <td align="center"><sub><b>WEB, AI</b></sub><br /><img src="https://github.com/Sungshin-Entalk/.github/assets/114573447/ef0d9109-9a2c-4479-a0a5-82f21b564f99" width="100px;" alt=""/><br /><sub><b>정혜주</b></sub><br /></td>
-    <td align="center"><sub><b>WEB, AI</b></sub><br /><img src="https://github.com/Sungshin-Entalk/.github/assets/114573447/ff384e1c-dd29-412c-8b3d-9fe067e7e434" width="100px;" alt=""/><br /><sub><b>이유진</b></sub><br /></td>
+    <td align="center"><sub><b>WEB, AI</b></sub><br /><img src="https://github.com/Sungshin-Entalk/.github/assets/114573447/ff384e1c-dd29-412c-8b3d-9fe067e7e434" width="100px;" alt=""/><br /><sub><b>이유진</b></sub><br /></td>
     </tr>
 </table>
 
